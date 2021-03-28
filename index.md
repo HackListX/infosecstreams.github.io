@@ -103,6 +103,7 @@ Link | Description
 --- | ---
 [TryHackMe](https://tryhackme.com) | TryHackMe - Learn Penetration Testing Skills 
 [HackTheBox](https://hackthebox.eu) | HackTheBox - Learn Penetration Testing Skills
+[HackTheBoxAcademy](https://academy.hackthebox.eu/) | HackTheBoxAcademy - Learn Penetration Testing Skills From the Beginning
 [PenTest.WS](https://pentest.ws) | Engagement Utility
 [GTFOBins](https://gtfobins.github.io) | Quick Shell One-liners
 [CyberChef](https://gchq.github.io/CyberChef) | The Cyber Swiss Army Knife for analysing/encoding/decoding data
@@ -111,7 +112,7 @@ Link | Description
 [ExplainShell](https://explainshell.com) | Bash Shell Command Explanation
 [0day.exposed](https://www.revshells.com) | Reverse Shell Command Generator
 [CrackStation](https://crackstation.net) | Online Hash Cracking
-
+[ConnectTheDots](https://www.connecteddots.online/) | ConnectTheDots - Learn Basic through intermediate networking
 
 ### Credits
 
