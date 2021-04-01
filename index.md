@@ -112,6 +112,7 @@ Link | Description
 [ExplainShell](https://explainshell.com) | Bash Shell Command Explanation
 [0day.exposed](https://www.revshells.com) | Reverse Shell Command Generator
 [CrackStation](https://crackstation.net) | Online Hash Cracking
+[securitycreators](https://securitycreators.video/) | Liveoverflow's List
 
 
 ### Credits
